@@ -1,9 +1,11 @@
 ai
 !gai
 人工智能
+
 llm
 tensorflow
 pytorch
+
 Nvidia
 AMD
 
@@ -15,6 +17,6 @@ AMD
 
 数字基建
 
-惠名声
+惠民生
 
 商业分析
