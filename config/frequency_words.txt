@@ -1,9 +1,20 @@
 ai
 !gai
 人工智能
+llm
+tensorflow
+pytorch
+Nvidia
+AMD
 
 科技
 
+十五五
+
 新质生产力
 
-十五五
+数字基建
+
+惠名声
+
+商业分析
