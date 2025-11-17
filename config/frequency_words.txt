@@ -1,13 +1,10 @@
 ai
 !gai
-人工智能
 
-llm
-tensorflow
-pytorch
-
-Nvidia
-AMD
+小巨人
+瞪羚
+高新技术
++无锡
 
 科技
 
